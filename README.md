@@ -21,3 +21,9 @@ Para la inscripición, es necesario almacenar la siguiente información:
 - Tipo de colegio del que se graduó (Público o privado)
 
 La información descrita anteriormente se debe almacenar de manera permanente en una base de MongoDB utilizando el servicio de MongoDB Atlas
+
+## Herramientas y tecnologías usadas:
+- NodeJS
+- Express
+- MongoDB
+- Postman
