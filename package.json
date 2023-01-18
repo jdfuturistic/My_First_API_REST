@@ -1,0 +1,19 @@
+{
+  "name": "crud-api_rest-practice",
+  "version": "1.0.0",
+  "description": "Practica de CRUD para API REST con NodeJS",
+  "main": "servidor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdfuturistic/My_First_API_REST.git"
+  },
+  "author": "Joseph David V.M.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdfuturistic/My_First_API_REST/issues"
+  },
+  "homepage": "https://github.com/jdfuturistic/My_First_API_REST#readme"
+}
